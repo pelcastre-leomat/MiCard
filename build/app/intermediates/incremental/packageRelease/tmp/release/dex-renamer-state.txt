@@ -1,0 +1,4 @@
+#Tue Apr 18 21:17:50 CEST 2023
+base.0=C\:\\Users\\Leo\\StudioProjects\\mi_card_flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
