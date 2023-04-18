@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.teal,
+        backgroundColor: Colors.redAccent[100],
         body: SafeArea(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(
                   fontFamily: 'Source Sans Pro',
                   fontSize: 20,
-                  color: Colors.teal[100],
+                  color: Colors.white,
                   letterSpacing: 2.5,
                   fontWeight: FontWeight.bold
                 ),
